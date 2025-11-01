@@ -1,0 +1,6 @@
+rgname                 = "dev-josiah-rg"
+service_principal_name = "dev-josiah-spn"
+keyvault_name          = "dev-kv-101"
+SUB_ID = "37a0b0eb-96fe-43a7-a8e4-3d6ee3bfa00e"
+node_pool_name = "stagenp"
+cluster_name = "stage-josiah-cluster"
